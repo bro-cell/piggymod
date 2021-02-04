@@ -215,7 +215,8 @@
       "add_url":"https://archive.org/download/Actualgun/Guns/Actualgun.zip",
       "addB_url":"https://archive.org/download/Actualgun/Guns/Actualgun-B.mcpack",
       "addR_url":"https://archive.org/download/Actualgun/Guns/Actualgun-R.mcpack",
-      "view_add":"https://ia601502.us.archive.org/27/items/Actualgun/Guns/actualguns.png"
+      "view_add":"https://ia601502.us.archive.org/27/items/Actualgun/Guns/actualguns.png",
+	  "des_add": ""
     },
     {
       "id":3,
@@ -223,7 +224,8 @@
       "add_url":"https://archive.org/download/Laserguns/Laser%20Guns/Laserguns.zip",
       "addB_url":"https://archive.org/download/Laserguns/Laser%20Guns/Laserguns-B.mcpack",
       "addR_url":"https://archive.org/download/Laserguns/Laser%20Guns/Laserguns-R.mcpack",
-      "view_add":"https://ia601509.us.archive.org/21/items/Laserguns/Laser%20Guns/laserguns.png"
+      "view_add":"https://ia601509.us.archive.org/21/items/Laserguns/Laser%20Guns/laserguns.png",
+	  "des_add": ""
     },
     {
       "id":4,
@@ -231,7 +233,8 @@
       "add_url":"https://archive.org/download/imposter_202010/Imposter/Imposter.zip",
       "addB_url":"https://archive.org/download/imposter_202010/Imposter/Imposter-B.mcpack",
       "addR_url":"https://archive.org/download/imposter_202010/Imposter/Imposter-R.mcpack",
-      "view_add":"https://ia601407.us.archive.org/1/items/imposter_202010/Imposter/theimposter.png"
+      "view_add":"https://ia601407.us.archive.org/1/items/imposter_202010/Imposter/theimposter.png",
+	  "des_add": ""
     },
     {
       "id":5,
@@ -239,7 +242,8 @@
       "add_url":"https://archive.org/download/Uncraftingtable/Uncrafting%20Table/Uncraftingtable.zip",
       "addB_url":"https://archive.org/download/Uncraftingtable/Uncrafting%20Table/Uncraftingtable-B.mcpack",
       "addR_url":"https://archive.org/download/Uncraftingtable/Uncrafting%20Table/Uncraftingtable-R.mcpack",
-      "view_add":"https://ia801401.us.archive.org/17/items/Uncraftingtable/Uncrafting%20Table/uncraftingtable.png"
+      "view_add":"https://ia801401.us.archive.org/17/items/Uncraftingtable/Uncrafting%20Table/uncraftingtable.png",
+	  "des_add": ""
     },
     {
       "id":6,
@@ -247,7 +251,8 @@
       "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
       "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
       "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
-      "view_add":"https://aliendro.id/wp-content/addon/catplus.png"
+      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
+	  "des_add": ""
     },
     {
       "id":7,
@@ -255,7 +260,8 @@
       "add_url":"https://archive.org/download/furniture_20201009_0341/Furniture/furniture.zip",
       "addB_url":"https://archive.org/download/furniture_20201009_0341/Furniture/furniture-B.mcpack",
       "addR_url":"https://archive.org/download/furniture_20201009_0341/Furniture/furniture-R.mcpack",
-      "view_add":"https://ia601400.us.archive.org/1/items/furniture_20201009_0341/Furniture/furniture.png"
+      "view_add":"https://ia601400.us.archive.org/1/items/furniture_20201009_0341/Furniture/furniture.png",
+	  "des_add": ""
     },
     {
       "id":8,
@@ -263,7 +269,8 @@
       "add_url":"https://archive.org/download/dynamite_202010/Dynamite/dynamite.zip",
       "addB_url":"https://archive.org/download/dynamite_202010/Dynamite/dynamite-B.mcpack",
       "addR_url":"https://archive.org/download/dynamite_202010/Dynamite/dynamite-R.mcpack",
-      "view_add":"https://ia601509.us.archive.org/33/items/dynamite_202010/Dynamite/dynamite.png"
+      "view_add":"https://ia601509.us.archive.org/33/items/dynamite_202010/Dynamite/dynamite.png",
+	  "des_add": ""
     },
     {
       "id":9,
@@ -271,7 +278,8 @@
       "add_url":"https://archive.org/download/blocks_202010/Number%20Blocks%20Addon/blocks.zip",
       "addB_url":"https://archive.org/download/blocks_202010/Number%20Blocks%20Addon/blocks-B.mcpack",
       "addR_url":"https://archive.org/download/blocks_202010/Number%20Blocks%20Addon/blocks-B.mcpack",
-      "view_add":"https://ia601504.us.archive.org/29/items/blocks_202010/Number%20Blocks%20Addon/blocks.png"
+      "view_add":"https://ia601504.us.archive.org/29/items/blocks_202010/Number%20Blocks%20Addon/blocks.png",
+	  "des_add": ""
     },
 	{
       "id":10,
@@ -279,7 +287,8 @@
       "add_url":"https://archive.org/download/guns_20201003/Guns/guns.zip",
       "addB_url":"https://archive.org/download/guns_20201003/Guns/guns-B.mcpack",
       "addR_url":"https://archive.org/download/guns_20201003/Guns/guns-R.mcpack",
-      "view_add":"https://archive.org/download/guns_20201003/Guns/guns.png"
+      "view_add":"https://archive.org/download/guns_20201003/Guns/guns.png",
+	  "des_add": ""
     }],
 	"Maps": [
 	{
@@ -300,55 +309,65 @@
       "id":3,
       "nama_map":"Hello Neighbor2",
       "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
-      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg"
+      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
+	  "des_map": ""
     },
     {
       "id":4,
       "nama_map":"Among Us Map",
       "map_url":"https://archive.org/download/map_20201005/Among-us-Map.zip",
-      "view_map":"https://ia801407.us.archive.org/15/items/map_20201005/Map/among-us-map-addon_2.png"
+      "view_map":"https://ia801407.us.archive.org/15/items/map_20201005/Map/among-us-map-addon_2.png",
+	  "des_map": ""
     },
     {
       "id":5,
       "nama_map":"Among Craft",
       "map_url":"https://archive.org/download/amongcraft/Among%20Craft/amongcraft.zip",
-      "view_map":"https://ia601409.us.archive.org/22/items/amongcraft/Among%20Craft/amongcraft.png"
+      "view_map":"https://ia601409.us.archive.org/22/items/amongcraft/Among%20Craft/amongcraft.png",
+	  "des_map": ""
     },
     {
       "id":6,
       "nama_map":"Cubical's Tower",
       "map_url":"https://archive.org/download/Cubicalstower/Cubical%E2%80%99s%20Tower/Cubicalstower.zip",
-      "view_map":"https://ia601502.us.archive.org/3/items/Cubicalstower/Cubical%E2%80%99s%20Tower/cubicalstower.png"
+      "view_map":"https://ia601502.us.archive.org/3/items/Cubicalstower/Cubical%E2%80%99s%20Tower/cubicalstower.png",
+	  "des_map": ""
     },
     {
       "id":7,
       "nama_map":"Among Us Craft",
       "map_url":"https://archive.org/download/amonguscraft/Among%20Us%20Craft/amonguscraft.zip",
-      "view_map":"https://ia601509.us.archive.org/19/items/amonguscraft/Among%20Us%20Craft/amonguscraft.png"
+      "view_map":"https://ia601509.us.archive.org/19/items/amonguscraft/Among%20Us%20Craft/amonguscraft.png",
+	  "des_map": ""
     },
     {
       "id":8,
       "nama_map":"Achievement World",
       "map_url":"https://archive.org/download/achievementworld/Achievement%20World/achievementworld.zip",
-      "view_map":"https://ia601408.us.archive.org/31/items/achievementworld/Achievement%20World/achievementworld.png"
+      "view_map":"https://ia601408.us.archive.org/31/items/achievementworld/Achievement%20World/achievementworld.png",
+	  "des_map": ""
     },
     {
       "id":9,
       "nama_map":"SCP:CB LC Edition",
       "map_url":"https://archive.org/download/scpcb_20201016/SCPCB%20LC%20Edition/scpcb.zip",
-      "view_map":"https://ia601405.us.archive.org/25/items/scpcb_20201016/SCPCB%20LC%20Edition/scpcb.png"
+      "view_map":"https://ia601405.us.archive.org/25/items/scpcb_20201016/SCPCB%20LC%20Edition/scpcb.png",
+	  "des_map": ""
     },
     {
       "id":10,
       "nama_map":"HardCoreLine",
       "map_url":"https://archive.org/download/hardcoreline/Hard%20Core%20Line/hardcoreline.zip",
-      "view_map":"https://ia601407.us.archive.org/27/items/hardcoreline/Hard%20Core%20Line/hardcoreline.png"
+      "view_map":"https://ia601407.us.archive.org/27/items/hardcoreline/Hard%20Core%20Line/hardcoreline.png",
+	  "des_map": ""
+	  "des_map": ""
     },
     {
       "id":11,
       "nama_map":"Bedrock Auto Chicken",
       "map_url":"https://archive.org/download/bedrock_202010/Bedrock/Bedrock.zip",
-      "view_map":"https://ia601500.us.archive.org/25/items/bedrock_202010/Bedrock/bedrock.png"
+      "view_map":"https://ia601500.us.archive.org/25/items/bedrock_202010/Bedrock/bedrock.png",
+	  "des_map": ""
     }
 	]
 }
