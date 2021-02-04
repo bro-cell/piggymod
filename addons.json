@@ -199,5 +199,29 @@
 			"skin_url": "https://raw.githubusercontent.com/elno99/piggymod/main/30aa.png",
 			"view_skin": "https://raw.githubusercontent.com/elno99/piggymod/main/30a.png"
 		}
-	 ]
+	 ],
+	"Addons": [{
+		"id": 1,
+		"nama_add": "Piggy Escape Addon",
+		"add_url": "-",
+		"addB_url": "https://ia801505.us.archive.org/19/items/mappig1/Piggy%20Addon%20B.mcpack",
+		"addR_url": "https://ia801505.us.archive.org/19/items/mappig1/Piggy%20Addon%20R.mcpack",
+		"view_add": "https://jajal.dekreta.xyz/zuuvid/pigimod/addon.jpg",
+		"des_add": "https://jajal.dekreta.xyz/zuuvid/pigimod/pigi.html"
+	}],
+	"Maps": [{
+		"id": 1,
+		"nama_map": "Map Piggy Escape",
+		"map_url": "https://ia801505.us.archive.org/19/items/mappig1/mappig.zip",
+		"view_map": "https://jajal.dekreta.xyz/zuuvid/pigimod/map.jpg",
+		"des_map": "https://jajal.dekreta.xyz/zuuvid/pigimod/pigi.html"
+	},
+	{
+		"id": 2,
+		"nama_map": "BONUS Lucky Block Race Map V2",
+		"map_url": "https://ia801500.us.archive.org/35/items/lukblok1/Lucky%20Blocks%20Race%20v2.zip",
+		"view_map": "https://jajal.dekreta.xyz/zuuvid/luckymap/lucky2.JPG",
+		"des_map": "https://jajal.dekreta.xyz/zuuvid/luckymap/deskv2.html"
+	}
+	]
 }
