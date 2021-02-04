@@ -205,7 +205,16 @@
 			"addR_url": "https://ia801505.us.archive.org/19/items/mappig1/Piggy%20Addon%20R.mcpack",
 			"view_add": "https://my.mcpedl.com/storage/addons/3364/images/piggy-addon_3.png",
 			"des_add": "https://ia601501.us.archive.org/17/items/piggy1/pigimod.html"
-		}
+		},
+		   {
+      "id":2,
+      "nama_add":"Guns",
+      "add_url":"https://archive.org/download/guns_20201003/Guns/guns.zip",
+      "addB_url":"https://archive.org/download/guns_20201003/Guns/guns-B.mcpack",
+      "addR_url":"https://archive.org/download/guns_20201003/Guns/guns-R.mcpack",
+      "view_add":"https://archive.org/download/guns_20201003/Guns/guns.png"
+      "des_add": "https://archive.org/download/guns_20201003/Guns/guns.png"
+    }
 	],
 	"Maps": [{
 			"id": 1,
