@@ -206,78 +206,78 @@
 			"view_add": "https://my.mcpedl.com/storage/addons/3364/images/piggy-addon_3.png",
 			"des_add": "https://ia601501.us.archive.org/17/items/piggy1/pigimod.html"
 		},
-		   {
-      "id":2,
-      "nama_add":"Guns",
-      "add_url":"https://archive.org/download/guns_20201003/Guns/guns.zip",
-      "addB_url":"https://archive.org/download/guns_20201003/Guns/guns-B.mcpack",
-      "addR_url":"https://archive.org/download/guns_20201003/Guns/guns-R.mcpack",
-      "view_add":"https://archive.org/download/guns_20201003/Guns/guns.png",
-      "des_add": "https://ia801708.us.archive.org/14/items/guns_20201003/Guns/guns.png"
-    },
-    {
-      "id":3,
-      "nama_add":"Actual Guns",
-      "add_url":"https://archive.org/download/Actualgun/Guns/Actualgun.zip",
-      "addB_url":"https://archive.org/download/Actualgun/Guns/Actualgun-B.mcpack",
-      "addR_url":"https://archive.org/download/Actualgun/Guns/Actualgun-R.mcpack",
-      "view_add":"https://ia601502.us.archive.org/27/items/Actualgun/Guns/actualguns.png",
-      "des_add": "https://ia601502.us.archive.org/27/items/Actualgun/Guns/actualguns.png"
-    },
-    {
-      "id":4,
-      "nama_add":"Laser Guns",
-      "add_url":"https://archive.org/download/Laserguns/Laser%20Guns/Laserguns.zip",
-      "addB_url":"https://archive.org/download/Laserguns/Laser%20Guns/Laserguns-B.mcpack",
-      "addR_url":"https://archive.org/download/Laserguns/Laser%20Guns/Laserguns-R.mcpack",
-      "view_add":"https://ia601509.us.archive.org/21/items/Laserguns/Laser%20Guns/laserguns.png",
-      "des_add": "https://ia601509.us.archive.org/21/items/Laserguns/Laser%20Guns/laserguns.png"
-    },
-    {
-      "id":5,
-      "nama_add":"The Imposter",
-      "add_url":"https://archive.org/download/imposter_202010/Imposter/Imposter.zip",
-      "addB_url":"https://archive.org/download/imposter_202010/Imposter/Imposter-B.mcpack",
-      "addR_url":"https://archive.org/download/imposter_202010/Imposter/Imposter-R.mcpack",
-      "view_add":"https://ia601407.us.archive.org/1/items/imposter_202010/Imposter/theimposter.png",
-       "des_add": "https://ia601407.us.archive.org/1/items/imposter_202010/Imposter/theimposter.png"
-    },
-    {
-      "id":6,
-      "nama_add":"Uncrafting Table",
-      "add_url":"https://archive.org/download/Uncraftingtable/Uncrafting%20Table/Uncraftingtable.zip",
-      "addB_url":"https://archive.org/download/Uncraftingtable/Uncrafting%20Table/Uncraftingtable-B.mcpack",
-      "addR_url":"https://archive.org/download/Uncraftingtable/Uncrafting%20Table/Uncraftingtable-R.mcpack",
-      "view_add":"https://ia801401.us.archive.org/17/items/Uncraftingtable/Uncrafting%20Table/uncraftingtable.png",
-	    "des_add": "https://ia801401.us.archive.org/17/items/Uncraftingtable/Uncrafting%20Table/uncraftingtable.png"
-    },
-    {
-      "id":7,
-      "nama_add":"Furniture",
-      "add_url":"https://archive.org/download/furniture_20201009_0341/Furniture/furniture.zip",
-      "addB_url":"https://archive.org/download/furniture_20201009_0341/Furniture/furniture-B.mcpack",
-      "addR_url":"https://archive.org/download/furniture_20201009_0341/Furniture/furniture-R.mcpack",
-      "view_add":"https://ia601400.us.archive.org/1/items/furniture_20201009_0341/Furniture/furniture.png",
-	    "des_add":"https://ia601400.us.archive.org/1/items/furniture_20201009_0341/Furniture/furniture.png"
-    },
-    {
-      "id":8,
-      "nama_add":"Dynamite Projectile Addon",
-      "add_url":"https://archive.org/download/dynamite_202010/Dynamite/dynamite.zip",
-      "addB_url":"https://archive.org/download/dynamite_202010/Dynamite/dynamite-B.mcpack",
-      "addR_url":"https://archive.org/download/dynamite_202010/Dynamite/dynamite-R.mcpack",
-      "view_add":"https://ia601509.us.archive.org/33/items/dynamite_202010/Dynamite/dynamite.png",
-	    "des_add":"https://ia601509.us.archive.org/33/items/dynamite_202010/Dynamite/dynamite.png"
-    },
-    {
-      "id":9,
-      "nama_add":"Number Blocks Addon",
-      "add_url":"https://archive.org/download/blocks_202010/Number%20Blocks%20Addon/blocks.zip",
-      "addB_url":"https://archive.org/download/blocks_202010/Number%20Blocks%20Addon/blocks-B.mcpack",
-      "addR_url":"https://archive.org/download/blocks_202010/Number%20Blocks%20Addon/blocks-B.mcpack",
-      "view_add":"https://ia601504.us.archive.org/29/items/blocks_202010/Number%20Blocks%20Addon/blocks.png",
-	    "dess_add":"https://ia601504.us.archive.org/29/items/blocks_202010/Number%20Blocks%20Addon/blocks.png"
-    }
+		{
+			"id": 2,
+			"nama_add": "Guns",
+			"add_url": "https://archive.org/download/guns_20201003/Guns/guns.zip",
+			"addB_url": "https://archive.org/download/guns_20201003/Guns/guns-B.mcpack",
+			"addR_url": "https://archive.org/download/guns_20201003/Guns/guns-R.mcpack",
+			"view_add": "https://ia801708.us.archive.org/14/items/guns_20201003/Guns/guns.png",
+			"des_add": "https://ia801708.us.archive.org/14/items/guns_20201003/Guns/guns.png"
+		},
+		{
+			"id": 3,
+			"nama_add": "Actual Guns",
+			"add_url": "https://archive.org/download/Actualgun/Guns/Actualgun.zip",
+			"addB_url": "https://archive.org/download/Actualgun/Guns/Actualgun-B.mcpack",
+			"addR_url": "https://archive.org/download/Actualgun/Guns/Actualgun-R.mcpack",
+			"view_add": "https://ia601502.us.archive.org/27/items/Actualgun/Guns/actualguns.png",
+			"des_add": "https://ia601502.us.archive.org/27/items/Actualgun/Guns/actualguns.png"
+		},
+		{
+			"id": 4,
+			"nama_add": "Laser Guns",
+			"add_url": "https://archive.org/download/Laserguns/Laser%20Guns/Laserguns.zip",
+			"addB_url": "https://archive.org/download/Laserguns/Laser%20Guns/Laserguns-B.mcpack",
+			"addR_url": "https://archive.org/download/Laserguns/Laser%20Guns/Laserguns-R.mcpack",
+			"view_add": "https://ia601509.us.archive.org/21/items/Laserguns/Laser%20Guns/laserguns.png",
+			"des_add": "https://ia601509.us.archive.org/21/items/Laserguns/Laser%20Guns/laserguns.png"
+		},
+		{
+			"id": 5,
+			"nama_add": "The Imposter",
+			"add_url": "https://archive.org/download/imposter_202010/Imposter/Imposter.zip",
+			"addB_url": "https://archive.org/download/imposter_202010/Imposter/Imposter-B.mcpack",
+			"addR_url": "https://archive.org/download/imposter_202010/Imposter/Imposter-R.mcpack",
+			"view_add": "https://ia601407.us.archive.org/1/items/imposter_202010/Imposter/theimposter.png",
+			"des_add": "https://ia601407.us.archive.org/1/items/imposter_202010/Imposter/theimposter.png"
+		},
+		{
+			"id": 6,
+			"nama_add": "Uncrafting Table",
+			"add_url": "https://archive.org/download/Uncraftingtable/Uncrafting%20Table/Uncraftingtable.zip",
+			"addB_url": "https://archive.org/download/Uncraftingtable/Uncrafting%20Table/Uncraftingtable-B.mcpack",
+			"addR_url": "https://archive.org/download/Uncraftingtable/Uncrafting%20Table/Uncraftingtable-R.mcpack",
+			"view_add": "https://ia801401.us.archive.org/17/items/Uncraftingtable/Uncrafting%20Table/uncraftingtable.png",
+			"des_add": "https://ia801401.us.archive.org/17/items/Uncraftingtable/Uncrafting%20Table/uncraftingtable.png"
+		},
+		{
+			"id": 7,
+			"nama_add": "Furniture",
+			"add_url": "https://archive.org/download/furniture_20201009_0341/Furniture/furniture.zip",
+			"addB_url": "https://archive.org/download/furniture_20201009_0341/Furniture/furniture-B.mcpack",
+			"addR_url": "https://archive.org/download/furniture_20201009_0341/Furniture/furniture-R.mcpack",
+			"view_add": "https://ia601400.us.archive.org/1/items/furniture_20201009_0341/Furniture/furniture.png",
+			"des_add": "https://ia601400.us.archive.org/1/items/furniture_20201009_0341/Furniture/furniture.png"
+		},
+		{
+			"id": 8,
+			"nama_add": "Dynamite Projectile Addon",
+			"add_url": "https://archive.org/download/dynamite_202010/Dynamite/dynamite.zip",
+			"addB_url": "https://archive.org/download/dynamite_202010/Dynamite/dynamite-B.mcpack",
+			"addR_url": "https://archive.org/download/dynamite_202010/Dynamite/dynamite-R.mcpack",
+			"view_add": "https://ia601509.us.archive.org/33/items/dynamite_202010/Dynamite/dynamite.png",
+			"des_add": "https://ia601509.us.archive.org/33/items/dynamite_202010/Dynamite/dynamite.png"
+		},
+		{
+			"id": 9,
+			"nama_add": "Number Blocks Addon",
+			"add_url": "https://archive.org/download/blocks_202010/Number%20Blocks%20Addon/blocks.zip",
+			"addB_url": "https://archive.org/download/blocks_202010/Number%20Blocks%20Addon/blocks-B.mcpack",
+			"addR_url": "https://archive.org/download/blocks_202010/Number%20Blocks%20Addon/blocks-B.mcpack",
+			"view_add": "https://ia601504.us.archive.org/29/items/blocks_202010/Number%20Blocks%20Addon/blocks.png",
+			"dess_add": "https://ia601504.us.archive.org/29/items/blocks_202010/Number%20Blocks%20Addon/blocks.png"
+		}
 	],
 	"Maps": [{
 			"id": 1,
