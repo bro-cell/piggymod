@@ -292,6 +292,63 @@
 			"map_url": "https://ia601501.us.archive.org/17/items/piggy1/Piggyhorror.zip",
 			"view_map": "https://mcpedl.com/wp-content/uploads/2020/06/piggy-in-minecraft_1-520x245.png",
 			"des_map": "https://ia601501.us.archive.org/17/items/piggy1/game%20piggy%20mod.html"
+		},
+		{
+			"id": 3,
+			"nama_map": "Among Us Map",
+			"map_url": "https://archive.org/download/map_20201005/Among-us-Map.zip",
+			"view_map": "https://ia801407.us.archive.org/15/items/map_20201005/Map/among-us-map-addon_2.png",
+			"des_map": "https://ia803204.us.archive.org/33/items/map_20201005/Map/among-us-map-addon_2.png"
+		},
+		{
+			"id": 4,
+			"nama_map": "Among Craft",
+			"map_url": "https://archive.org/download/amongcraft/Among%20Craft/amongcraft.zip",
+			"view_map": "https://ia601409.us.archive.org/22/items/amongcraft/Among%20Craft/amongcraft.png",
+			"des_map": "https://ia801706.us.archive.org/20/items/amongcraft/Among%20Craft/amongcraft.png"
+		},
+		{
+			"id": 5,
+			"nama_map": "Cubical's Tower",
+			"map_url": "https://archive.org/download/Cubicalstower/Cubical%E2%80%99s%20Tower/Cubicalstower.zip",
+			"view_map": "https://ia601502.us.archive.org/3/items/Cubicalstower/Cubical%E2%80%99s%20Tower/cubicalstower.png",
+			"des_map": "https://ia801905.us.archive.org/22/items/Cubicalstower/Cubical%E2%80%99s%20Tower/cubicalstower.png"
+		},
+		{
+			"id": 6,
+			"nama_map": "Among Us Craft",
+			"map_url": "https://archive.org/download/amonguscraft/Among%20Us%20Craft/amonguscraft.zip",
+			"view_map": "https://ia601509.us.archive.org/19/items/amonguscraft/Among%20Us%20Craft/amonguscraft.png",
+			"des_map": "https://ia801906.us.archive.org/13/items/amonguscraft/Among%20Us%20Craft/amonguscraft.png"
+		},
+		{
+			"id": 7,
+			"nama_map": "Achievement World",
+			"map_url": "https://archive.org/download/achievementworld/Achievement%20World/achievementworld.zip",
+			"view_map": "https://ia601408.us.archive.org/31/items/achievementworld/Achievement%20World/achievementworld.png",
+			"des_map": "https://ia801708.us.archive.org/28/items/achievementworld/Achievement%20World/achievementworld.png"
+		},
+		{
+			"id": 8,
+			"nama_map": "SCP:CB LC Edition",
+			"map_url": "https://archive.org/download/scpcb_20201016/SCPCB%20LC%20Edition/scpcb.zip",
+			"view_map": "https://ia601405.us.archive.org/25/items/scpcb_20201016/SCPCB%20LC%20Edition/scpcb.png",
+			"des_map": "https://ia801703.us.archive.org/11/items/scpcb_20201016/SCPCB%20LC%20Edition/scpcb.png"
+		},
+		{
+			"id": 9,
+			"nama_map": "HardCoreLine",
+			"map_url": "https://archive.org/download/hardcoreline/Hard%20Core%20Line/hardcoreline.zip",
+			"view_map": "https://ia601407.us.archive.org/27/items/hardcoreline/Hard%20Core%20Line/hardcoreline.png",
+			"des_map": "https://ia801709.us.archive.org/30/items/hardcoreline/Hard%20Core%20Line/hardcoreline.png"
+		},
+		{
+			"id": 10,
+			"nama_map": "Bedrock Auto Chicken",
+			"map_url": "https://archive.org/download/bedrock_202010/Bedrock/Bedrock.zip",
+			"view_map": "https://ia601500.us.archive.org/25/items/bedrock_202010/Bedrock/bedrock.png",
+			"des_map": "https://ia801908.us.archive.org/7/items/bedrock_202010/Bedrock/bedrock.png"
 		}
 	]
+
 }
